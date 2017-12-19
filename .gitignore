@@ -1,0 +1,5 @@
+# eclipse project files
+.cproject
+.project
+.settings
+git_push.sh
